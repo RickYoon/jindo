@@ -125,7 +125,7 @@ function Invest() {
               <Shadowbox className="border border-gray-200 rounded-lg p-10 bg-white mt-5">
                 <div className="flex justify-center">
                   <span className="text-xl text-center" style={{fontWeight:"700"}}>
-                    <FontStyle>Connected Wallet</FontStyle>
+                    <FontStyle>CONNECT WALLET!!</FontStyle>
                   </span>
                 </div>
               </Shadowbox>  
